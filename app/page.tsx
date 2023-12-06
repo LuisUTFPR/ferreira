@@ -2,6 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-<h1>tristeza sem tamanho</h1>
+<h1>cadastro de veiculos</h1>
+
   )
 }
